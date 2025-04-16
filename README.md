@@ -16,7 +16,7 @@ In case you to do not have these lists and according to recent limitations impos
 
 If you do not already have access to the tweet ID list, please contact us at:
 
-📧 **veruemail@gmail.com**  
+📧 **vruemail@gmail.com**  
 📌 Please use the subject line: `ICWSM25_liwc_news`
 
 We will provide you with the necessary data upon request.
