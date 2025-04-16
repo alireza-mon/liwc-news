@@ -21,6 +21,11 @@ If you do not already have access to the tweet ID list, please contact us at:
 
 We will provide you with the necessary data upon request.
 
+## Supplementary LIWC Dimensions
+
+In addition to the four LIWC dimensions analyzed in the main study ("Analytic", "Clout", "Perception", and "Risk"), we also computed results for other LIWC dimensions. These supplementary results are provided in the folder [`./figs/box_plots`] for completeness and potential future reference.
+
+
 ## Citation
 
 If you use this code or data in your own work, we kindly ask that you cite our paper:
