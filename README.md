@@ -12,9 +12,7 @@ The code in this repository is designed to analyze the linguistic dimensions of 
 
 To run the analyses, you will need access to a list of tweets from various publishers, stored under: `data/publisher_tweets/`
 
-In case you to do not have these lists and according to recent limitations imposed by X on the public sharing of tweet IDs, we are unable to share this data directly in the repository.
-
-If you do not already have access to the tweet ID list, please contact us at:
+In case you to do not have these lists and according to recent limitations imposed by X on the public sharing of tweet IDs, please contact us at:
 
 📧 **vruemail@gmail.com**  
 📌 Please use the subject line: `ICWSM25_liwc_news`
